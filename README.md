@@ -142,5 +142,5 @@ This will execute unit tests defined in the `tests/` folder.
 
 ## 👨‍💻 Author
 
-**Your Name**  
+Kaviyarasu V
 [GitHub](https://github.com/vkavi0607/AQI-Prediction) | [LinkedIn](http://www.linkedin.com/in/kaviyarasu-v-502662367)
